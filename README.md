@@ -1,5 +1,5 @@
 
-<p><a href="https://wakatime.com/@garik01"><img alt="Garik01 wakatime" src="https://wakatime.com/badge/user/75b899a7-91d3-41c0-bad4-d81b795e104e.svg"/></a></p>
+<p><a href="https://wakatime.com/@garik01" target="_blank"><img alt="Garik01 wakatime" src="https://wakatime.com/badge/user/75b899a7-91d3-41c0-bad4-d81b795e104e.svg"/></a></p>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=garik01&hide=contribs&show_icons=true&include_all_commits=true&count_private=true)
 
